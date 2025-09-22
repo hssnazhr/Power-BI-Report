@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 - This project analyzes retail sales data from a fictional Superstore to uncover trends in revenue, profitability, and customer behavior.
-The interactive Power BI dashboard highlights performance by region, product category, and customer segment, helping decision-makers identify growth opportunities and underperforming areas.
+- The interactive Power BI dashboard highlights performance by region, product category, and customer segment, helping decision-makers identify growth opportunities and underperforming areas.
 ---
 
 ## 🎯 Objectives
@@ -21,8 +21,7 @@ The interactive Power BI dashboard highlights performance by region, product cat
 
 ## 🛠️ Tools & Skills
 - **Languages/Tech:** Power BI
-- **Skills Demonstrated:**
-- Data cleaning and transformation in Power Query
+- **Skills Demonstrated:** - Data cleaning and transformation in Power Query
 - KPI creation (Total Sales, Total Profit, Profit Margin)
 - DAX for calculated measures
 - Interactive dashboards with slicers & drill-throughdata cleaning, visualization, dashboarding, reporting, ML basics, etc.  
