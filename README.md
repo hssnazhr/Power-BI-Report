@@ -30,8 +30,3 @@
 ---
 
 ## 📂 Project Structure
-superstore-sales-dashboard/
- ┣ 📄 README.md
- ┣ 📂 data/          <- sample dataset (CSV if allowed)
- ┣ 📂 reports/       <- dashboard screenshots
- ┗ 📄 superstore_dashboard.pbix
