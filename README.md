@@ -21,10 +21,11 @@
 
 ## 🛠️ Tools & Skills
 - **Languages/Tech:** Power BI
-- **Skills Demonstrated:** - Data cleaning and transformation in Power Query
-- KPI creation (Total Sales, Total Profit, Profit Margin)
-- DAX for calculated measures
-- Interactive dashboards with slicers & drill-throughdata cleaning, visualization, dashboarding, reporting, ML basics, etc.  
+- **Skills Demonstrated:**
+  - Data cleaning and transformation in Power Query
+  - KPI creation (Total Sales, Total Profit, Profit Margin)
+  - DAX for calculated measures
+  - Interactive dashboards with slicers & drill-throughdata cleaning, visualization, dashboarding, reporting, ML basics, etc.  
 
 ---
 
