@@ -1,7 +1,7 @@
 # Superstore Sales & Customer Insights Dashboard
 
 ## 📖 Overview
-This project analyzes retail sales data from a fictional Superstore to uncover trends in revenue, profitability, and customer behavior.
+- This project analyzes retail sales data from a fictional Superstore to uncover trends in revenue, profitability, and customer behavior.
 The interactive Power BI dashboard highlights performance by region, product category, and customer segment, helping decision-makers identify growth opportunities and underperforming areas.
 ---
 
