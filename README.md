@@ -33,13 +33,22 @@
 - **Page 1 - Sales Overview**
   ![superstore-sales-dashboard](reports/sales-overview.png)
 
+
+
+
   
 - **Page 2 - Profit & Margin Analysis**
   ![superstore-sales-dashboard](reports/profit-margin-analysis.png)
 
+
+
+
   
 - **Page 3 - Customer Insights**
   ![superstore-sales-dashboard](reports/customer-insights.png)
+
+
+
 
   
 - **Page 4 - Tooltip**
