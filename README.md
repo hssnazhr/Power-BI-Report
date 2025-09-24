@@ -1,8 +1,10 @@
-# Superstore Sales & Customer Insights Dashboard
+# Superstore Sales Analysis – Power BI
 
-## 📖 Overview
+## 📖 Project Overview
+- I took on this personal project to improve my visualisations skills on Power BI, especially on making interactive dashboards.
+- I created these dashboards with skills and knowledge gained upon completing my Microsoft: Power BI Data Analyst Associate Certification back in March 2025. This certification has allowed me to shift from just visualising data to asking the right business questions, designing visuals that support decision-making, and using filter, slicers, and drill-throughs to enhance interactivity.
 - This project analyzes retail sales data from a fictional Superstore to uncover trends in revenue, profitability, and customer behavior.
-- The interactive Power BI dashboard highlights performance by region, product category, and customer segment, helping decision-makers identify growth opportunities and underperforming areas.
+- The goal is to provide actionable recommendations that improve sales strategy and business outcomes.
 ---
 
 ## 🎯 Objectives
@@ -17,15 +19,6 @@
 - **Source:** [Superstore Dataset][https://www.kaggle.com/datasets/vivek468/superstore-dataset-final]  
 - **Size:** 9,800 rows × 21 columns
 - **Description:** Includes order details (date, category, sub-category), sales, profit, discount, quantity, shipping info, and customer details.
----
-
-## 🛠️ Tools & Skills
-- **Languages/Tech:** Power BI
-- **Skills Demonstrated:**
-  - Data cleaning and transformation in Power Query
-  - KPI creation (Total Sales, Total Profit, Profit Margin)
-  - DAX for calculated measures
-  - Interactive dashboards with slicers & drill-throughdata cleaning, visualization, dashboarding, reporting, ML basics, etc.  
 
 ---
 
@@ -53,3 +46,34 @@
   
 - **Page 4 - Tooltip**
   ![superstore-sales-dashboard](reports/tooltip.png)
+
+---
+
+## 🔑 Key Findings
+- Regions: Central led in total sales; West showed fastest growth.
+- Categories: Technology delivered the highest profit margins, while Furniture lagged.
+- Customer Segments: Corporate customers generated the highest lifetime value.
+- Seasonality: Sales spiked in November–December, suggesting holiday-driven demand.
+
+---
+
+## ✅ Recommendations
+- Invest in Technology category marketing to maximize ROI.
+- Optimize Furniture pricing & supply chain to lift margins.
+- Run mid-year campaigns to counter seasonal dips in July.
+- Develop retention programs for Corporate segment customers.
+
+---
+
+## 🛠 Tools & Skills Demonstrated
+
+- Power BI Desktop – data modeling, DAX, and dashboard design
+- Power Query – ETL (Extract, Transform, Load) and derived columns
+- Data Visualization – interactive dashboards and tooltips
+- Business Analysis – translating raw data into actionable insights
+
+---
+
+🚀 How to Explore
+
+You can view the interactive dashboard by downloading the .pbix file from this repository and opening it in Power BI Desktop.
