@@ -29,4 +29,12 @@
 
 ---
 
-## 📂 Project Structure
+## 📊 Dashboard Preview
+- **Page 1 - Sales Overview**
+  (reports/sales-overview.png)
+- **Page 2 - Profit & Margin Analysis**
+  (reports/profit-margin-analysis.png)
+- **Page 3 - Customer Insights**
+  (reports/customer-insights.png)
+- **Page 4 - Tooltip**
+  (reports/tooltip.png)
